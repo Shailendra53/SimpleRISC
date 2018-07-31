@@ -1,0 +1,1 @@
+g++ -g -I./include src/main.cpp src/Core.cpp src/Memory.cpp src/PipelineRegister.cpp -o ./bin/sim
